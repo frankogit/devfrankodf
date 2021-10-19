@@ -1,0 +1,9 @@
+{
+	"name": "devfrankodf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce3844ca-75e2-4bdb-8084-88e8fb690585",
+		"tenantId": "444a1d09-f419-4ff4-8967-f8bf224e7001"
+	}
+}
